@@ -2,15 +2,11 @@
 
 A fast and easy-to-use web-based QR Code Scanner built with HTML, CSS, and JavaScript. This project allows users to scan QR codes using their webcam or from an uploaded image — all directly in the browser.
 
-![QR Code Scanner Preview](preview.png) <!-- Optional: Add screenshot -->
-
 ---
 
 ## 🌐 Live Demo
 
 👉 [**Try It Live**](https://amanchaurasia-qrcode-scanner.netlify.app/))  
-*(Replace this with your actual Netlify link)*
-
 ---
 
 ## 🚀 Features
